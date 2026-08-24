@@ -1,78 +1,108 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi, I'm Eyad Magdy Kamal ⚡</h1>
 
-###
+<h3 align="center">
+  AI Engineer · LLM Agent Developer · Machine Learning Engineer · IEEE-Published Researcher
+</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/eyad-magdy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="center">
+  <a href="https://eyadxe.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-eyadxe.github.io-6366f1?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/eyad-magdy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:eyadmagdywork@gmail.com"><img src="https://img.shields.io/badge/Email-eyadmagdywork%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?id=EyadXE.EyadXE&color=6366f1&style=flat-square" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/BSc_Computer_Science-MSA_University_GPA_3.7-22d3ee?style=flat-square" alt="Education" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/IEEE_Publications-2-fbbf24?style=flat-square" alt="Publications" />
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EyadXE.EyadXE&"  />
-</div>
+---
 
-###
+### 🚀 About Me
 
-<h1 align="center">Hey there 👋</h1>
+- 🤖 I build **production LLM agents**, **RAG systems** and **automation workflows** — including a **commissioned SaaS product delivered to a real client** (Finexa).
+- 🏭 AI & Automation intern at **Exology Pioneer Program** — shipped **5 production-grade public repos** with docs, evals and Docker deployments.
+- 📄 **2× IEEE author** (ICAIII 2026): dynamic-SMOTE hybrid oversampling + ML/DL survey for Network Intrusion Detection.
+- 🔐 I care about **LLM safety**: prompt-injection-proof guardrails enforced in code, fail-closed PII gateways, human-in-the-loop approvals, LLM-as-Judge evaluation.
+- 🎓 BSc Computer Science @ MSA University (GPA 3.7, expected 2027) — research focus on ML, DL and NLP.
+- 🏆 3rd Place — DeepMind university event (population forecasting model, <2% error).
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🌟 Featured Projects
 
-###
+| Project | What it does | Stack |
+|---|---|---|
+| [**FinexaAgent**](https://github.com/eyadXE/FinexaAgent) 💼 | Production SaaS: Arabic/English accounting via Telegram — agentic classify-then-dispatch, adaptive memory (75%→95% confidence), voice + receipt OCR, Railway deployment | FastAPI · LangChain · Groq · PostgreSQL |
+| [**AI-Gov**](https://github.com/eyadXE/AI-Gov) 🔐 | Privacy-preserving RAG gateway — PII never leaves your process; fail-closed leakage validation between app & any LLM | GLiNER · FastAPI · Chroma · Streamlit |
+| [**RKO**](https://github.com/eyadXE/RKO) 📄 | Resume Keyword Optimizer & AI career advisor — live job scraping, from-scratch TF-IDF engine, dual ATS scoring | Streamlit · Llama 3.3 70B · NLP |
+| [**support-agent-langgraph**](https://github.com/eyadXE/support-agent-langgraph) 🛒 | LangGraph e-commerce agent: RAG over local embeddings, refund HITL interrupts, LLM-as-judge evals, n8n replica | LangGraph · RAG · n8n · Docker |
+| [**banking-assistant**](https://github.com/eyadXE/banking-assistant) 🏦 | Banking77 intent classifier @ 98% accuracy + hand-written tool-calling loop that survives a documented prompt-injection attack | Prompt Engineering · OpenRouter · Gemini |
+| [**elaf-operations-ai-demos**](https://github.com/eyadXE/elaf-operations-ai-demos) 🧾 | Client demos for Saudi hospitality group: local OCR invoice extraction + MRZ (ICAO 9303) pilgrim onboarding — privacy-first | Tesseract · MRZ · Rules Engine |
 
-<p align="left">Eyad Magdy Kamal<br><br>I am an Ai engineer specialized in Vision and NLP</p>
+➡️ [See all repositories →](https://github.com/eyadXE?tab=repositories)
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+### 🛠️ Tech Stack
 
-###
+**Languages:** Python (Advanced) · C · C++ · SQL · Bash
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
+**AI / LLM:** LangChain · LangGraph · Agentic Workflows · Tool Calling · Human-in-the-Loop · RAG · Prompt Engineering
+**Providers:** Groq · OpenAI · Google Gemini · OpenRouter · Structured Outputs
+**Safety & Evals:** Outcome vs Process Evaluation · LLM-as-Judge · Prompt-Injection Defense · Guardrails
+**ML/DL:** PyTorch · TensorFlow · Keras · Scikit-learn · Hugging Face Transformers
+**NLP/CV:** NLI · TF-IDF · Semantic Search · SentenceTransformers · OpenCV · YOLO · Tesseract OCR · MRZ
+**Backend/Cloud:** FastAPI · Flask · Streamlit · Docker · Railway · AWS · PostgreSQL · MongoDB · n8n
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,fastapi,docker,aws,tensorflow,pytorch,opencv,postgres,mongodb,git,github,vscode,jupyter" height="35" alt="tech stack" />
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+### 💼 Experience Highlights
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EyadXE&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+- **Exology Pioneer Program** *(Aug 2026)* — AI & Automation intern. 5 production-grade systems incl. an LLM banking assistant whose transfer guardrails survive prompt injection by design, and two client demos delivered to a Saudi hospitality group (9 properties).
+- **Orange Digital Center Egypt** *(Sep–Oct 2024)* — ML intern. Scikit-learn pipelines, feature engineering and EDA on real-world datasets.
+- **IEEE Student Branch, MSA** *(Oct 2024 – Feb 2025)* — Technical team member. Workshops and peer mentoring in AI/ML.
 
+---
 
+### 📄 Publications
 
+1. *"A Hybrid Oversampling Framework for Addressing Class Severe Imbalance in Network Intrusion Detection Systems Using Dynamic SMOTE"* — Proc. ICAIII 2026, IEEE · [DOI: 10.1109/ICAIII69475.2026.11521185](https://doi.org/10.1109/ICAIII69475.2026.11521185)
+2. *"From Data to Defense: An Analytical Overview of Machine and Deep Learning Models for Network Intrusion Detection Systems"* — Proc. ICAIII 2026, IEEE · [DOI: 10.1109/ICAIII69475.2026.11521722](https://doi.org/10.1109/ICAIII69475.2026.11521722)
+
+---
+
+### 📜 Certifications
+
+`ML Specialization — Stanford/DeepLearning.AI` · `Advanced Learning Algorithms — Stanford` · `CCNA — Cisco` · `AWS Educate` · `Mathematics for ML — Imperial College London` · `EF SET English C1`
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EyadXE&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="165" alt="GitHub streak" />
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EyadXE&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=EyadXE&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EyadXE&layout=compact&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyadXE&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  📫 Reach me at <strong>eyadmagdywork@gmail.com</strong> — open to AI Engineer / ML Engineer / LLM Developer roles.
+</p>

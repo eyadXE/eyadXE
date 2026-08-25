@@ -22,8 +22,8 @@
 
 ### 🚀 About Me
 
-- 🤖 I build **production LLM agents**, **RAG systems** and **automation workflows** — including a **commissioned SaaS product delivered to a real client** (Finexa).
-- 🏭 AI & Automation intern at **Exology Pioneer Program** — shipped **5 production-grade public repos** with docs, evals and Docker deployments.
+- 🤖 I build **production LLM agents**, **RAG systems** and **automation workflows** — including a **production SaaS product** (Finexa).
+- 🏭 AI & Automation intern at **Exology Pioneer Program**.
 - 📄 **2× IEEE author** (ICAIII 2026): dynamic-SMOTE hybrid oversampling + ML/DL survey for Network Intrusion Detection.
 - 🔐 I care about **LLM safety**: prompt-injection-proof guardrails enforced in code, fail-closed PII gateways, human-in-the-loop approvals, LLM-as-Judge evaluation.
 - 🎓 BSc Computer Science @ MSA University (GPA 3.7, expected 2027) — research focus on ML, DL and NLP.
@@ -40,7 +40,7 @@
 | [**RKO**](https://github.com/eyadXE/RKO) 📄 | Resume Keyword Optimizer & AI career advisor — live job scraping, from-scratch TF-IDF engine, dual ATS scoring | Streamlit · Llama 3.3 70B · NLP |
 | [**support-agent-langgraph**](https://github.com/eyadXE/support-agent-langgraph) 🛒 | LangGraph e-commerce agent: RAG over local embeddings, refund HITL interrupts, LLM-as-judge evals, n8n replica | LangGraph · RAG · n8n · Docker |
 | [**banking-assistant**](https://github.com/eyadXE/banking-assistant) 🏦 | Banking77 intent classifier @ 98% accuracy + hand-written tool-calling loop that survives a documented prompt-injection attack | Prompt Engineering · OpenRouter · Gemini |
-| [**elaf-operations-ai-demos**](https://github.com/eyadXE/elaf-operations-ai-demos) 🧾 | Client demos for Saudi hospitality group: local OCR invoice extraction + MRZ (ICAO 9303) pilgrim onboarding — privacy-first | Tesseract · MRZ · Rules Engine |
+| [**hospitality-operations-demos**](https://github.com/eyadXE/hospitality-operations-demos) 🧾 | Hospitality operations system: local OCR invoice extraction with sanity checks + MRZ (ICAO 9303) onboarding document validation — privacy-first | Tesseract · MRZ · Rules Engine |
 
 ➡️ [See all repositories →](https://github.com/eyadXE?tab=repositories)
 
@@ -65,7 +65,7 @@
 
 ### 💼 Experience Highlights
 
-- **Exology Pioneer Program** *(Aug 2026)* — AI & Automation intern. 5 production-grade systems incl. an LLM banking assistant whose transfer guardrails survive prompt injection by design, and two client demos delivered to a Saudi hospitality group (9 properties).
+- **Exology Pioneer Program** *(Aug 2026)* — AI & Automation intern. Built an LLM banking assistant whose transfer guardrails survive prompt injection by design, plus RAG support-agent, budget-management and document-intelligence systems.
 - **Orange Digital Center Egypt** *(Sep–Oct 2024)* — ML intern. Scikit-learn pipelines, feature engineering and EDA on real-world datasets.
 - **IEEE Student Branch, MSA** *(Oct 2024 – Feb 2025)* — Technical team member. Workshops and peer mentoring in AI/ML.
 

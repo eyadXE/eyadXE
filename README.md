@@ -33,14 +33,33 @@
 
 ### 🌟 Featured Projects
 
+#### 🤖 AI Agents & Tool-Calling
 | Project | What it does | Stack |
 |---|---|---|
-| [**FinexaAgent**](https://github.com/eyadXE/FinexaAgent) 💼 | Production SaaS: Arabic/English accounting via Telegram — agentic classify-then-dispatch, adaptive memory (75%→95% confidence), voice + receipt OCR, Railway deployment | FastAPI · LangChain · Groq · PostgreSQL |
-| [**AI-Gov**](https://github.com/eyadXE/AI-Gov) 🔐 | Privacy-preserving RAG gateway — PII never leaves your process; fail-closed leakage validation between app & any LLM | GLiNER · FastAPI · Chroma · Streamlit |
-| [**RKO**](https://github.com/eyadXE/RKO) 📄 | Resume Keyword Optimizer & AI career advisor — live job scraping, from-scratch TF-IDF engine, dual ATS scoring | Streamlit · Llama 3.3 70B · NLP |
+| [**FinexaAgent**](https://github.com/eyadXE/FinexaAgent) 💼 | Production SaaS: Arabic/English accounting via Telegram — agentic classify-then-dispatch (not ReAct, by design), adaptive memory (75%→95% confidence), voice + receipt OCR, Railway deployment | FastAPI · LangChain · Groq · PostgreSQL |
 | [**support-agent-langgraph**](https://github.com/eyadXE/support-agent-langgraph) 🛒 | LangGraph e-commerce agent: RAG over local embeddings, refund HITL interrupts, LLM-as-judge evals, n8n replica | LangGraph · RAG · n8n · Docker |
-| [**banking-assistant**](https://github.com/eyadXE/banking-assistant) 🏦 | Banking77 intent classifier @ 98% accuracy + hand-written tool-calling loop that survives a documented prompt-injection attack | Prompt Engineering · OpenRouter · Gemini |
-| [**hospitality-operations-demos**](https://github.com/eyadXE/hospitality-operations-demos) 🧾 | Hospitality operations system: local OCR invoice extraction with sanity checks + MRZ (ICAO 9303) onboarding document validation — privacy-first | Tesseract · MRZ · Rules Engine |
+| [**banking-assistant**](https://github.com/eyadXE/banking-assistant) 🏦 | Banking77 intent classifier + hand-written tool-calling loop whose transfer guardrails are enforced in code, not the prompt — survives a documented prompt-injection attack | Prompt Engineering · OpenRouter · Gemini |
+
+#### 🔎 RAG & Retrieval
+| Project | What it does | Stack |
+|---|---|---|
+| [**RKO**](https://github.com/eyadXE/RKO) 📄 | Resume Keyword Optimizer & AI career advisor — live job scraping, from-scratch TF-IDF/inverted-index engine, dual ATS scoring | FastAPI · Llama 3.3 70B · NLP |
+| [**WikiSearch_RAG_App**](https://github.com/eyadXE/WikiSearch_RAG_App) 📚 | Wikipedia-grounded RAG chatbot — hand-rolled retrieval/chunking pipeline (not a black-box chain), strict context-only answering to minimize hallucination | FastAPI · Groq · Wikipedia API |
+
+#### 🧾 Document Intelligence & OCR
+| Project | What it does | Stack |
+|---|---|---|
+| [**hospitality-operations-demos**](https://github.com/eyadXE/hospitality-operations-demos) 🧾 | Hospitality operations system: local OCR invoice extraction with sanity checks + MRZ (ICAO 9303) onboarding document validation — privacy-first, nothing leaves the machine | Tesseract · MRZ · Rules Engine |
+
+#### 🔐 AI Security & Privacy
+| Project | What it does | Stack |
+|---|---|---|
+| [**AI-Gov**](https://github.com/eyadXE/AI-Gov) 🔐 | Privacy-preserving RAG gateway — PII never leaves your process; fail-closed leakage validation between app & any LLM | GLiNER · FastAPI · Chroma |
+
+#### 🏭 Full-Stack AI Platforms
+| Project | What it does | Stack |
+|---|---|---|
+| [**ai-production-planning-system**](https://github.com/eyadXE/ai-production-planning-system) 🏗️ | AI-assisted production planning for a steel fabrication company — deterministic pricing engine the LLM can never compute or approve through, 5-gate approval workflow, full auth + tracking board | Next.js · FastAPI · SQLAlchemy · JWT |
 
 ➡️ [See all repositories →](https://github.com/eyadXE?tab=repositories)
 
